@@ -1,0 +1,8 @@
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.pdb
