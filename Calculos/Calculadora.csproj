@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Menu\Avarage.cs" />
     <Compile Include="Menu\Calculator.cs" />
     <Compile Include="Menu\Screen.cs" />
     <Compile Include="Program.cs" />

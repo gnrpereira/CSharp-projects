@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculadora.Menu
+namespace CalculadoraSimples
 {
     public static class Calculator
     {

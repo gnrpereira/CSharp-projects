@@ -6,3 +6,11 @@ C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculado
 C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\adeli\OneDrive\Área de Trabalho\CSharp\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\bin\Debug\Calculadora.exe.config
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\bin\Debug\Calculadora.exe
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\bin\Debug\Calculadora.pdb
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\obj\Debug\Calculadora.exe
+C:\Users\adeli\OneDrive\Área de Trabalho\Projeto CSHARP\Calculos\obj\Debug\Calculadora.pdb

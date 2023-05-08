@@ -1,10 +1,11 @@
 ﻿using System;
-using Calculadora;
+using Calculos;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Calculadora.Menu;
+using CalculadoraSimples;
+using Calculadora;
 
 namespace Menu
 {
@@ -26,9 +27,7 @@ namespace Menu
                         Calculator.ChooseOperations();
                         break;
                     case 2:
-                        /*
-                         Arithmetic Avarage
-                         */
+                        Avarage.ArithmeticAvarage();
                         break;
                     case 3:
                         /*
