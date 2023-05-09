@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CalculadoraSimples;
 using Calculadora;
+using System.Security.Policy;
 
 namespace Menu
 {
@@ -17,7 +18,7 @@ namespace Menu
             while (exit)
             {
                 Console.WriteLine("======== Hello, welcome to Menu ========");
-                Console.WriteLine("What you want today?");
+                Console.WriteLine("What'd you want today?");
                 Console.WriteLine("\n\t1 Simple calculator\n\t2 Arithmetic Avarage of 4 numbers\n\t3 IMC calculator\n\t4 Table\n\t5 Exit");
                 int op = int.Parse(Console.ReadLine());
 
@@ -30,9 +31,7 @@ namespace Menu
                         Avarage.ArithmeticAvarage();
                         break;
                     case 3:
-                        /*
-                         IMC calculator
-                         */
+                        IMC.IMCCalculator();
                         break;
                     case 4:
                         /*

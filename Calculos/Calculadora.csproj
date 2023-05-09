@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Menu\Avarage.cs" />
     <Compile Include="Menu\Calculator.cs" />
+    <Compile Include="Menu\IMC.cs" />
     <Compile Include="Menu\Screen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
