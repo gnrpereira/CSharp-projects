@@ -39,7 +39,7 @@ namespace CalculadoraSimples
             decimal num2 = decimal.Parse(Console.ReadLine());
 
             decimal sum = num1 * num2;
-            Console.WriteLine($"The product of the {num1} and {num2} is: {sum} a");
+            Console.WriteLine($"The product of the {num1} and {num2} is: {sum}");
         }
         public static void Division()
         {
